@@ -1,3 +1,27 @@
 [submodule "firstassignment"]
 	path = firstassignment
 	url = git@github.com:IndiraMariya/firstassignment.git
+[submodule "integerconvert"]
+	path = integerconvert
+	url = git@github.com:IndiraMariya/integerconvert.git
+[submodule "rslk"]
+	path = rslk
+	url = git@github.com:IndiraMariya/rslk.git
+[submodule "myfileio"]
+	path = myfileio
+	url = git@github.com:IndiraMariya/myfileio.git
+[submodule "employeegui"]
+	path = employeegui
+	url = git@github.com:IndiraMariya/employeegui.git
+[submodule "elevatorsim"]
+	path = elevatorsim
+	url = git@github.com:IndiraMariya/elevatorsim.git
+[submodule "expressioneval"]
+	path = expressioneval
+	url = git@github.com:IndiraMariya/expressioneval.git
+[submodule "huffmancompression"]
+	path = huffmancompression
+	url = git@github.com:IndiraMariya/huffmancompression.git
+[submodule "hashes"]
+	path = hashes
+	url = git@github.com:IndiraMariya/hashes.git

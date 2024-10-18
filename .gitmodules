@@ -1,0 +1,3 @@
+[submodule "firstassignment"]
+	path = firstassignment
+	url = git@github.com:IndiraMariya/firstassignment.git
